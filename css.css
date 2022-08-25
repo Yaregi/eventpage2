@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+#wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#wrap .m {
+    width: 100%;
+    max-width: 100%;
+
+}
